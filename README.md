@@ -135,10 +135,12 @@ gliff --server-bin 'gliff-server --low-bandwidth' user@host
 
 ## Other clients
 
-- [Gliff Client](https://github.com/c4software/gliff-client): an Android
+- [Android iOS - Gliff Client](https://github.com/c4software/gliff-client): an Android
   app, on [Google Play](https://play.google.com/store/apps/details?id=io.github.c4software.gliff).
   It talks to an unmodified `gliff-server`. Maintained separately, not by the
   gliff authors.
+- [gliff-win](https://github.com/wynandt/gliff-win): a Windows client, with zip downloads on its [releases page](https://github.com/wynandt/gliff-win/releases). It talks to an unmodified gliff-server. Maintained separately, not by the gliff authors.
+
 
 ## More
 
